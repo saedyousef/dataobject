@@ -15,7 +15,7 @@ Supreme Object is to create Data Object or Data Transfer Objects for you, instea
 From the command line run:
 
 ```
-composer require saedyousef/supreme-object
+composer require saedyousef/dataobject
 ```
 
 ## Usage
@@ -24,8 +24,10 @@ With the package now installed, you can implement the main Interface `DataObject
 Here is an example of a class `PostDataObject` that implements the `DataObject` interface :
 ```php
 
-use Saedyousef\SupremeObject\Contracts\DataObject;
-use Saedyousef\SupremeObject\Support\DataObjectTrait;
+use SY\DataObject\Contracts\DataObject;
+use SY\DataObject\Support\DataObjectTrait;
+use SY\DataObject\Support\ObjectReadAccess;
+use SY\DataObject\Support\ObjectWriteAccess;
 
 /**
  * @property int|null id
@@ -35,6 +37,8 @@ use Saedyousef\SupremeObject\Support\DataObjectTrait;
 class PostDataObject implements DataObject
 {
     use DataObjectTrait;
+    use ObjectReadAccess;
+    use ObjectWriteAccess; // If you need to write object properties.
     
     public function __construct(array $properties = [])
     {
@@ -53,6 +57,14 @@ class PostDataObject implements DataObject
     public function getId()
     {
         return $this->id;
+    }
+    
+    /**
+    * @return string
+    */
+    public function getTitle(): string
+    {
+        return $this->title;
     }
 }
 ```
