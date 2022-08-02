@@ -1,9 +1,9 @@
 <p align="center" style="font-size: 2em;font-weight: bold">Supreme Object</p>
 
 <p align="center">
-<a href="https://packagist.org/packages/saedyousef/supreme-object"><img src="https://img.shields.io/packagist/dt/saedyousef/supreme-object" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/saedyousef/supreme-object"><img src="https://img.shields.io/packagist/v/saedyousef/supreme-object" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/saedyousef/supreme-object"><img src="https://img.shields.io/packagist/l/saedyousef/supreme-object" alt="License"></a>
+<a href="https://packagist.org/packages/saedyousef/dataobject"><img src="https://img.shields.io/packagist/dt/saedyousef/dataobject" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/saedyousef/dataobject"><img src="https://img.shields.io/packagist/v/saedyousef/dataobject" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/saedyousef/dataobject"><img src="https://img.shields.io/packagist/l/saedyousef/dataobject" alt="License"></a>
 <a href="https://wakatime.com/badge/user/03bf07e2-4c78-4826-8603-8922f0241061/project/1f7337b7-1cbe-4337-9330-c3d2b293fd7c"><img src="https://wakatime.com/badge/user/03bf07e2-4c78-4826-8603-8922f0241061/project/1f7337b7-1cbe-4337-9330-c3d2b293fd7c.svg" alt="wakatime"></a>
 </p>  
 <br>
