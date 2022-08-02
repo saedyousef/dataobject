@@ -1,0 +1,24 @@
+{
+    "name": "saedyousef/dataobject",
+    "description": "PHP Data Object",
+    "license": "MIT",
+    "keywords": ["PHP", "Data Object", "Data Transfer Object"],
+    "autoload": {
+        "psr-4": {
+            "SY\\DataObject\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "classmap": ["tests/TestCase.php"]
+    },
+    "authors": [
+        {
+            "name": "Saed Yousef",
+            "email": "saed.alzaben@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "8.5.x-dev"
+    }
+}
