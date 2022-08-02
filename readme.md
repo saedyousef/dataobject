@@ -8,8 +8,7 @@
 </p>  
 <br>
 
-Supreme Object is to create Data Object or Data Transfer Objects for you, instead of dealing with arrays or class properties.
-
+PHP Light DataObject with minimum implementation.
 ## Installation
 
 From the command line run:
