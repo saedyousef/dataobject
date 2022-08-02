@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 2em;font-weight: bold">Supreme Object</p>
+<p align="center" style="font-size: 2em;font-weight: bold">PHP Data Object</p>
 
 <p align="center">
 <a href="https://packagist.org/packages/saedyousef/dataobject"><img src="https://img.shields.io/packagist/dt/saedyousef/dataobject" alt="Total Downloads"></a>
