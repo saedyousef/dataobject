@@ -1,1 +1,0 @@
-{"version":1,"defects":[],"times":{"DataObjectTest::it_implements_data_object":0.002,"DataObjectTest::it_hydrate_object":0,"DataObjectTest::it_is_arrayable":0,"DataObjectTest::it_can_apply_properties":0}}
