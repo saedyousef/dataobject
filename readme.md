@@ -72,8 +72,6 @@ And that's it! Now you have your data object set.
 
 <br>
 
-A Star on this repo would be appreciated ;)
-
 ---
 ### Support Me!
 <div>
