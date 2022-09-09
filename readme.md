@@ -5,7 +5,8 @@
 <a href="https://packagist.org/packages/saedyousef/dataobject"><img src="https://img.shields.io/packagist/v/saedyousef/dataobject" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/saedyousef/dataobject"><img src="https://img.shields.io/packagist/l/saedyousef/dataobject" alt="License"></a>
 <a href="https://wakatime.com/badge/user/03bf07e2-4c78-4826-8603-8922f0241061/project/1f7337b7-1cbe-4337-9330-c3d2b293fd7c"><img src="https://wakatime.com/badge/user/03bf07e2-4c78-4826-8603-8922f0241061/project/1f7337b7-1cbe-4337-9330-c3d2b293fd7c.svg" alt="wakatime"></a>
-</p>  
+<a href="https://github.com/saedyousef/dataobject"><img src="https://github.com/saedyousef/dataobject/actions/workflows/php.yml/badge.svg" alt="Tests"></a>
+</p>
 <br>
 
 PHP Light DataObject with minimum implementation.
